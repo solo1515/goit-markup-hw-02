@@ -1,0 +1,111 @@
+body{
+font-family: 'Roboto', sans-serif;
+color:#2E2F42;
+}
+ul{
+    list-style-type:none;
+}
+
+/* header-style */
+.main-head{
+    background-color: white;
+}
+
+.menu-style {
+    font-weight: 400;
+    font-size: 16px;
+    text-decoration: none;
+    color: #2E2F42;
+}
+.top-menu:hover {
+    color: #434455;
+
+}
+.contact:hover {
+    color: #4D5AE5;
+} 
+.top-menu:focus {
+    color: #434455;
+
+}
+
+.contact:focus {
+    color: #4D5AE5;
+}
+/* buttons */
+
+.button-order{
+background: #4D5AE5;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    color:white;
+    font-weight: 600;
+    font-size: 16px;
+    cursor:pointer;
+}
+.button-order:hover {
+    background: #4D5AE5;
+    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
+    border-radius: 4px;
+}
+.button-menu{
+    background: #F4F4FD;
+    color: #4D5AE5;
+    font-weight: 600;
+    font-size: 16px;
+    cursor: pointer;
+}
+.button-menu:hover{
+    background: #4D5AE5;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    color:white;
+}
+
+/* text-decor */
+
+h1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 107%;
+}
+h2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 111%;
+}
+.title-name{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #2E2F42;
+    line-height: 120%;
+}
+p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #434455;
+    line-height: 150%;
+}
+.head{
+    background-color: #2E2F42;
+}
+.descriptions{
+    background-color:white;
+}
+.work{
+    background-color: white;
+}
+.team{
+    background: #F4F4FD;
+}
+.footer{
+    background: #2E2F42;
+}
